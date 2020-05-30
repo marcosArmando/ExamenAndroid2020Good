@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Examen Android 2020 Good</string>
+    <string name="title_activity_instruccion_uno">Map</string>
+    <string name="AInstruccionUno">Instrucción Uno</string>
+    <string name="title_activity_descargaarchivos">descargaarchivos</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="AConsumoWebService">A consumo de webService</string>
+    <string name="verEnMapaUbicaciones">Ver en mapa Ubicaciones</string>
+    <string name="irAInstruccionDos">Ir A Instrucción Dos</string>
+    <string name="irAInstruccionTres">A instrucción Tres</string>
+</resources>
